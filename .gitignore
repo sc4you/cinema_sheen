@@ -1,0 +1,6 @@
+# Python
+*.pyc
+
+# OS
+.DS_Store
+.vscode
